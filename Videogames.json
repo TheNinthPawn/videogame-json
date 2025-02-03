@@ -28,7 +28,7 @@
     "genre": "Action-adventure",
     "hobbies": ["Verkenning", "Puzzels oplossen", "Gevechten"],
     "developer": {
-      "id": 2,
+      "id": 1,
       "name": "Nintendo",
       "country": "Japan",
       "founded": 1889,
@@ -46,7 +46,7 @@
     "genre": "Sandbox",
     "hobbies": ["Bouwen", "Exploreren", "Survival"],
     "developer": {
-      "id": 3,
+      "id": 2,
       "name": "Mojang Studios",
       "country": "Zweden",
       "founded": 2009,
@@ -64,7 +64,7 @@
     "genre": "Battle Royale",
     "hobbies": ["Strijden", "Bouwen", "Teamwork"],
     "developer": {
-      "id": 4,
+      "id": 3,
       "name": "Epic Games",
       "country": "Verenigde Staten",
       "founded": 1991,
@@ -82,7 +82,7 @@
     "genre": "Social simulation",
     "hobbies": ["Bouwen", "Vissen", "Insecten verzamelen"],
     "developer": {
-      "id": 5,
+      "id": 1,
       "name": "Nintendo",
       "country": "Japan",
       "founded": 1889,
@@ -100,7 +100,7 @@
     "genre": "First-person shooter",
     "hobbies": ["Strijden", "Teamwork", "Strategie"],
     "developer": {
-      "id": 6,
+      "id": 4,
       "name": "Blizzard Entertainment",
       "country": "Verenigde Staten",
       "founded": 1991,
@@ -118,7 +118,7 @@
     "genre": "RPG",
     "hobbies": ["Jagen", "Verkennen", "Storytelling"],
     "developer": {
-      "id": 7,
+      "id": 5,
       "name": "CD Projekt Red",
       "country": "Polen",
       "founded": 2002,
@@ -136,7 +136,7 @@
     "genre": "Action-adventure",
     "hobbies": ["Schieten", "Verkennen", "Jagen"],
     "developer": {
-      "id": 8,
+      "id": 6,
       "name": "Rockstar Games",
       "country": "Verenigde Staten",
       "founded": 1998,
@@ -154,7 +154,7 @@
     "genre": "Action-adventure",
     "hobbies": ["Vechtkunst", "Verkennen", "Puzzels oplossen"],
     "developer": {
-      "id": 9,
+      "id": 7,
       "name": "Santa Monica Studio",
       "country": "Verenigde Staten",
       "founded": 1999,
@@ -172,7 +172,7 @@
     "genre": "First-person shooter",
     "hobbies": ["Strijden", "Verkennen", "Samenwerken"],
     "developer": {
-      "id": 10,
+      "id": 8,
       "name": "Bungie",
       "country": "Verenigde Staten",
       "founded": 1991,
