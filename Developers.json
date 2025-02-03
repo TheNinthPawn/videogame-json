@@ -1,0 +1,56 @@
+{{
+      "id": 1,
+      "name": "Nintendo",
+      "country": "Japan",
+      "founded": 1889,
+      "logo": "https://example.com/images/nintendo-logo.png"
+    },
+{
+      "id": 2,
+      "name": "Mojang Studios",
+      "country": "Zweden",
+      "founded": 2009,
+      "logo": "https://example.com/images/mojang-logo.png"
+    },
+{
+      "id": 3,
+      "name": "Epic Games",
+      "country": "Verenigde Staten",
+      "founded": 1991,
+      "logo": "https://example.com/images/epic-games-logo.png"
+    },
+{
+      "id": 4,
+      "name": "Blizzard Entertainment",
+      "country": "Verenigde Staten",
+      "founded": 1991,
+      "logo": "https://example.com/images/blizzard-logo.png"
+    },
+{
+      "id": 5,
+      "name": "CD Projekt Red",
+      "country": "Polen",
+      "founded": 2002,
+      "logo": "https://example.com/images/cdprojekt-logo.png"
+    },
+{
+      "id": 6,
+      "name": "Rockstar Games",
+      "country": "Verenigde Staten",
+      "founded": 1998,
+      "logo": "https://example.com/images/rockstar-logo.png"
+    },
+{
+      "id": 7,
+      "name": "Santa Monica Studio",
+      "country": "Verenigde Staten",
+      "founded": 1999,
+      "logo": "https://example.com/images/santa-monica-logo.png"
+    },
+{
+      "id": 8,
+      "name": "Bungie",
+      "country": "Verenigde Staten",
+      "founded": 1991,
+      "logo": "https://example.com/images/bungie-logo.png"
+    }}
