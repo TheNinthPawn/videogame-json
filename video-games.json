@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "name": "Super Mario Bros.",
+    "description": "Een klassieke platformgame waarin Mario en Luigi hun prinses moeten redden.",
+    "age": 35,
+    "isActive": true,
+    "releaseDate": "1985-09-13",
+    "imageUrl": "https://example.com/images/super-mario-bros.jpg",
+    "genre": "Platform",
+    "hobbies": ["Spelen", "Verkennen", "Race games"],
+    "developer": {
+      "id": 1,
+      "name": "Nintendo",
+      "country": "Japan",
+      "founded": 1889,
+      "logo": "https://example.com/images/nintendo-logo.png"
+    }
+  },
+  {
+    "id": 2,
+    "name": "The Legend of Zelda: Breath of the Wild",
+    "description": "Een open wereld avontuur waar spelers Hyrule verkennen en Ganon verslaan.",
+    "age": 7,
+    "isActive": true,
+    "releaseDate": "2017-03-03",
+    "imageUrl": "https://example.com/images/zelda-breath-of-the-wild.jpg",
+    "genre": "Action-adventure",
+    "hobbies": ["Verkenning", "Puzzels oplossen", "Gevechten"],
+    "developer": {
+      "id": 2,
+      "name": "Nintendo",
+      "country": "Japan",
+      "founded": 1889,
+      "logo": "https://example.com/images/nintendo-logo.png"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Minecraft",
+    "description": "Een sandbox game waarin spelers kunnen bouwen, mijnen, vechten en ontdekken.",
+    "age": 12,
+    "isActive": true,
+    "releaseDate": "2011-11-18",
+    "imageUrl": "https://example.com/images/minecraft.jpg",
+    "genre": "Sandbox",
+    "hobbies": ["Bouwen", "Exploreren", "Survival"],
+    "developer": {
+      "id": 3,
+      "name": "Mojang Studios",
+      "country": "Zweden",
+      "founded": 2009,
+      "logo": "https://example.com/images/mojang-logo.png"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Fortnite",
+    "description": "Een battle royale game waar spelers strijden om als laatste over te blijven.",
+    "age": 6,
+    "isActive": true,
+    "releaseDate": "2017-07-25",
+    "imageUrl": "https://example.com/images/fortnite.jpg",
+    "genre": "Battle Royale",
+    "hobbies": ["Strijden", "Bouwen", "Teamwork"],
+    "developer": {
+      "id": 4,
+      "name": "Epic Games",
+      "country": "Verenigde Staten",
+      "founded": 1991,
+      "logo": "https://example.com/images/epic-games-logo.png"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Animal Crossing: New Horizons",
+    "description": "Een social simulation game waarin spelers hun eigen eiland bouwen en interactie hebben met dierenbewoners.",
+    "age": 4,
+    "isActive": true,
+    "releaseDate": "2020-03-20",
+    "imageUrl": "https://example.com/images/animal-crossing.jpg",
+    "genre": "Social simulation",
+    "hobbies": ["Bouwen", "Vissen", "Insecten verzamelen"],
+    "developer": {
+      "id": 5,
+      "name": "Nintendo",
+      "country": "Japan",
+      "founded": 1889,
+      "logo": "https://example.com/images/nintendo-logo.png"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Overwatch",
+    "description": "Een team-based shooter waar spelers kiezen uit verschillende helden met unieke vaardigheden.",
+    "age": 7,
+    "isActive": true,
+    "releaseDate": "2016-05-24",
+    "imageUrl": "https://example.com/images/overwatch.jpg",
+    "genre": "First-person shooter",
+    "hobbies": ["Strijden", "Teamwork", "Strategie"],
+    "developer": {
+      "id": 6,
+      "name": "Blizzard Entertainment",
+      "country": "Verenigde Staten",
+      "founded": 1991,
+      "logo": "https://example.com/images/blizzard-logo.png"
+    }
+  },
+  {
+    "id": 7,
+    "name": "The Witcher 3: Wild Hunt",
+    "description": "Een open wereld RPG waarin je de rol speelt van Geralt of Rivia, een monsterjager in een fantasiewereld.",
+    "age": 8,
+    "isActive": true,
+    "releaseDate": "2015-05-19",
+    "imageUrl": "https://example.com/images/the-witcher-3.jpg",
+    "genre": "RPG",
+    "hobbies": ["Jagen", "Verkennen", "Storytelling"],
+    "developer": {
+      "id": 7,
+      "name": "CD Projekt Red",
+      "country": "Polen",
+      "founded": 2002,
+      "logo": "https://example.com/images/cdprojekt-logo.png"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Red Dead Redemption 2",
+    "description": "Een open wereld actie-avonturenspel dat zich afspeelt in het Wilde Westen.",
+    "age": 6,
+    "isActive": true,
+    "releaseDate": "2018-10-26",
+    "imageUrl": "https://example.com/images/red-dead-redemption-2.jpg",
+    "genre": "Action-adventure",
+    "hobbies": ["Schieten", "Verkennen", "Jagen"],
+    "developer": {
+      "id": 8,
+      "name": "Rockstar Games",
+      "country": "Verenigde Staten",
+      "founded": 1998,
+      "logo": "https://example.com/images/rockstar-logo.png"
+    }
+  },
+  {
+    "id": 9,
+    "name": "God of War (2018)",
+    "description": "Een actie-avonturenspel waarin Kratos zijn zoon door de mythologische wereld van Noordse goden leidt.",
+    "age": 6,
+    "isActive": true,
+    "releaseDate": "2018-04-20",
+    "imageUrl": "https://example.com/images/god-of-war.jpg",
+    "genre": "Action-adventure",
+    "hobbies": ["Vechtkunst", "Verkennen", "Puzzels oplossen"],
+    "developer": {
+      "id": 9,
+      "name": "Santa Monica Studio",
+      "country": "Verenigde Staten",
+      "founded": 1999,
+      "logo": "https://example.com/images/santa-monica-logo.png"
+    }
+  },
+  {
+    "id": 10,
+    "name": "Halo: Combat Evolved",
+    "description": "Een first-person shooter waarin je als Master Chief de mensheid verdedigt tegen een buitenaardse dreiging.",
+    "age": 23,
+    "isActive": false,
+    "releaseDate": "2001-11-15",
+    "imageUrl": "https://example.com/images/halo-combat-evolved.jpg",
+    "genre": "First-person shooter",
+    "hobbies": ["Strijden", "Verkennen", "Samenwerken"],
+    "developer": {
+      "id": 10,
+      "name": "Bungie",
+      "country": "Verenigde Staten",
+      "founded": 1991,
+      "logo": "https://example.com/images/bungie-logo.png"
+    }
+  }
+]
