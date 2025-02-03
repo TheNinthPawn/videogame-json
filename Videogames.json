@@ -8,7 +8,11 @@
     "releaseDate": "1985-09-13",
     "imageUrl": "https://github.com/TheNinthPawn/videogame-json/blob/main/SuperMarioBros.jpg?raw=true",
     "genre": "Platform",
-    "hobbies": ["Spelen", "Verkennen", "Race games"],
+    "hobbies": [
+      "Spelen",
+      "Verkennen",
+      "Race games"
+    ],
     "developer": {
       "id": 1,
       "name": "Nintendo",
@@ -26,7 +30,11 @@
     "releaseDate": "2017-03-03",
     "imageUrl": "https://github.com/TheNinthPawn/videogame-json/blob/main/canvas-the-legend-of-zelda-breath-of-the-wild-view-i111060.jpg?raw=true",
     "genre": "Action-adventure",
-    "hobbies": ["Verkenning", "Puzzels oplossen", "Gevechten"],
+    "hobbies": [
+      "Verkenning",
+      "Puzzels oplossen",
+      "Gevechten"
+    ],
     "developer": {
       "id": 1,
       "name": "Nintendo",
@@ -44,7 +52,11 @@
     "releaseDate": "2011-11-18",
     "imageUrl": "https://github.com/TheNinthPawn/videogame-json/blob/main/MineCraft.jpg?raw=true",
     "genre": "Sandbox",
-    "hobbies": ["Bouwen", "Exploreren", "Survival"],
+    "hobbies": [
+      "Bouwen",
+      "Exploreren",
+      "Survival"
+    ],
     "developer": {
       "id": 2,
       "name": "Mojang Studios",
@@ -62,7 +74,11 @@
     "releaseDate": "2017-07-25",
     "imageUrl": "https://github.com/TheNinthPawn/videogame-json/blob/main/Fortnite.jpg?raw=true",
     "genre": "Battle Royale",
-    "hobbies": ["Strijden", "Bouwen", "Teamwork"],
+    "hobbies": [
+      "Strijden",
+      "Bouwen",
+      "Teamwork"
+    ],
     "developer": {
       "id": 3,
       "name": "Epic Games",
@@ -80,7 +96,11 @@
     "releaseDate": "2020-03-20",
     "imageUrl": "https://github.com/TheNinthPawn/videogame-json/blob/main/Animal_Crossing_New_Horizons.jpg?raw=true",
     "genre": "Social simulation",
-    "hobbies": ["Bouwen", "Vissen", "Insecten verzamelen"],
+    "hobbies": [
+      "Bouwen",
+      "Vissen",
+      "Insecten verzamelen"
+    ],
     "developer": {
       "id": 1,
       "name": "Nintendo",
@@ -98,7 +118,11 @@
     "releaseDate": "2016-05-24",
     "imageUrl": "https://github.com/TheNinthPawn/videogame-json/blob/main/Overwatch_cover_art.jpg?raw=true",
     "genre": "First-person shooter",
-    "hobbies": ["Strijden", "Teamwork", "Strategie"],
+    "hobbies": [
+      "Strijden",
+      "Teamwork",
+      "Strategie"
+    ],
     "developer": {
       "id": 4,
       "name": "Blizzard Entertainment",
@@ -116,7 +140,11 @@
     "releaseDate": "2015-05-19",
     "imageUrl": "https://github.com/TheNinthPawn/videogame-json/blob/main/The%20Witcher%203.jpg?raw=true",
     "genre": "RPG",
-    "hobbies": ["Jagen", "Verkennen", "Storytelling"],
+    "hobbies": [
+      "Jagen",
+      "Verkennen",
+      "Storytelling"
+    ],
     "developer": {
       "id": 5,
       "name": "CD Projekt Red",
@@ -134,7 +162,11 @@
     "releaseDate": "2018-10-26",
     "imageUrl": "https://github.com/TheNinthPawn/videogame-json/blob/main/RedDeadRedemption2.jpg?raw=true",
     "genre": "Action-adventure",
-    "hobbies": ["Schieten", "Verkennen", "Jagen"],
+    "hobbies": [
+      "Schieten",
+      "Verkennen",
+      "Jagen"
+    ],
     "developer": {
       "id": 6,
       "name": "Rockstar Games",
@@ -152,7 +184,11 @@
     "releaseDate": "2018-04-20",
     "imageUrl": "https://github.com/TheNinthPawn/videogame-json/blob/main/God_of_War_4_cover.jpg?raw=true",
     "genre": "Action-adventure",
-    "hobbies": ["Vechtkunst", "Verkennen", "Puzzels oplossen"],
+    "hobbies": [
+      "Vechtkunst",
+      "Verkennen",
+      "Puzzels oplossen"
+    ],
     "developer": {
       "id": 7,
       "name": "Santa Monica Studio",
@@ -170,7 +206,11 @@
     "releaseDate": "2001-11-15",
     "imageUrl": "https://github.com/TheNinthPawn/videogame-json/blob/main/Halo_-_Combat_Evolved_(XBox_version_-_box_art).jpg?raw=true",
     "genre": "First-person shooter",
-    "hobbies": ["Strijden", "Verkennen", "Samenwerken"],
+    "hobbies": [
+      "Strijden",
+      "Verkennen",
+      "Samenwerken"
+    ],
     "developer": {
       "id": 8,
       "name": "Bungie",
